@@ -1,0 +1,42 @@
+[
+  {
+    "id": "stationery-td",
+    "name": "Stationery TD",
+    "bundle": "app.junelabs.stationerytd",
+    "build": "202611172245",
+    "time": "2026-11-18T06:45:37Z",
+    "tagline": "Tower defense on your desk"
+  },
+  {
+    "id": "june-arcade",
+    "name": "June Arcade",
+    "bundle": "app.junelabs.arcade",
+    "build": "202611180844",
+    "time": "2026-11-18T16:46:49Z",
+    "tagline": "The whole arcade, with Juno"
+  },
+  {
+    "id": "pirate-td",
+    "name": "Pirate TD",
+    "bundle": "app.junelabs.piratetd",
+    "build": "202611182151",
+    "time": "2026-11-19T05:52:00Z",
+    "tagline": "Pirates vs ocean myths, island to island"
+  },
+  {
+    "id": "nightlight-knight",
+    "name": "Nightlight Knight",
+    "bundle": "app.junelabs.nightlight",
+    "build": "202611182236",
+    "time": "2026-11-19T06:36:51Z",
+    "tagline": "A tin knight vs the windup toys, by nightlight"
+  },
+  {
+    "id": "june-studio",
+    "name": "June Studio",
+    "bundle": "app.junelabs.studio",
+    "build": "202611202323",
+    "time": "2026-11-21T07:24:06Z",
+    "tagline": "Make 2D games with blocks or code, then play them"
+  }
+]
