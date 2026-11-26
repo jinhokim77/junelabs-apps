@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f1024">
+<title>Nightlight Knight - Install</title>
+<link rel="apple-touch-icon" href="icon.png">
+<style>
+  body { margin:0; min-height:100vh; display:flex; align-items:center; justify-content:center; font-family:-apple-system,BlinkMacSystemFont,sans-serif; color:#fff;
+         background: radial-gradient(900px 500px at 50% -10%, #3a2a80 0%, transparent 60%), #0f1024; }
+  .card { text-align:center; padding:36px 28px; max-width:380px; width:calc(100% - 32px); background:#1a1c3a; border:1px solid #2c2f5a; border-radius:28px; }
+  img { width:120px; height:120px; border-radius:27px; box-shadow:0 12px 30px rgba(0,0,0,.45); }
+  h1 { font-size:28px; margin:18px 0 4px; }
+  .tag { color:#9aa0c8; margin:0 0 6px; }
+  .build { color:#9aa0c8; font-size:13px; margin-bottom:26px; }
+  .btn { display:inline-block; background:#3d8bff; color:#fff; text-decoration:none; font-weight:700; font-size:18px; padding:15px 54px; border-radius:16px; }
+  .btn:active { opacity:.7; }
+  .all { display:block; margin-top:22px; color:#9aa0c8; font-size:14px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <img src="icon.png" alt="">
+  <h1>Nightlight Knight</h1>
+  <p class="tag">A tin knight vs the windup toys, by nightlight</p>
+  <div class="build">Build 202611240733 · <span id="t"></span></div>
+  <a class="btn" href="itms-services://?action=download-manifest&url=https://jinhokim77.github.io/junelabs-apps/nightlight-knight/manifest.plist">Install</a>
+  <a class="all" href="../">All June Labs apps</a>
+</div>
+<script>document.getElementById("t").textContent = new Date("2026-11-24T15:33:27Z").toLocaleString();</script>
+</body>
+</html>

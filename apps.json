@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pirate-td",
+    "name": "Pirate TD",
+    "bundle": "app.junelabs.piratetd",
+    "build": "202611240732",
+    "time": "2026-11-24T15:32:41Z",
+    "tagline": "Pirates vs ocean myths, island to island"
+  },
+  {
+    "id": "nightlight-knight",
+    "name": "Nightlight Knight",
+    "bundle": "app.junelabs.nightlight",
+    "build": "202611240733",
+    "time": "2026-11-24T15:33:27Z",
+    "tagline": "A tin knight vs the windup toys, by nightlight"
+  },
+  {
+    "id": "june-studio",
+    "name": "June Studio",
+    "bundle": "app.junelabs.studio",
+    "build": "202611240734",
+    "time": "2026-11-24T15:34:39Z",
+    "tagline": "Make 2D games with blocks or code, then play them"
+  },
+  {
+    "id": "stationery-td",
+    "name": "Stationery TD",
+    "bundle": "app.junelabs.stationerytd",
+    "build": "202611240737",
+    "time": "2026-11-24T15:37:41Z",
+    "tagline": "Tower defense on your desk"
+  },
+  {
+    "id": "june-arcade",
+    "name": "June Arcade",
+    "bundle": "app.junelabs.arcade",
+    "build": "202611240739",
+    "time": "2026-11-24T15:42:10Z",
+    "tagline": "The whole arcade, with Juno"
+  },
+  {
+    "id": "nightlight-ai",
+    "name": "Nightlight",
+    "bundle": "app.junelabs.nightlightai",
+    "build": "202611241903",
+    "time": "2026-11-25T03:04:21Z",
+    "tagline": "Chat, draw, play and talk with Lite, Glowy and Nova"
+  },
+  {
+    "id": "midnight-kickoff",
+    "name": "Midnight Kickoff",
+    "bundle": "app.junelabs.kickoff",
+    "build": "202611261543",
+    "time": "2026-11-26T23:43:54Z",
+    "tagline": "Toy soccer on the desk at midnight: the Shelf Team vs the windups"
+  }
+]
